@@ -1,0 +1,4 @@
+// Resource file for burger_bounce.exe
+// IDI_APPLICATION = 32512 (standard)
+
+1 ICON "burger.ico"
